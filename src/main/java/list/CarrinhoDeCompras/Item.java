@@ -1,4 +1,4 @@
-package CarrinhoDeCompras;
+package main.java.list.CarrinhoDeCompras;
 
 public class Item {
     //atributo

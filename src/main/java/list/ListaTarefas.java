@@ -47,6 +47,8 @@ public class ListaTarefas {
         System.out.println(listaTarefas.obterNumeroTotalTarefas());
 
         listaTarefas.obterDescricoesTarefas();
+
+
     }
 
 }
